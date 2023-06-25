@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp&height=95">
+  <img src= "https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp&height=200">
 </p>
 
 ---
