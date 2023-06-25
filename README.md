@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey%20Everyone!🕹️&height=100&section=header"/>
 </p>
 <!--
@@ -18,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
