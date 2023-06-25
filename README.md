@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey%20Everyone!🕹️&height=100&section=header"/>
 </p>
 
+<h1 align="center">
+  let's Know and have a Chat💭
+</h1>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
