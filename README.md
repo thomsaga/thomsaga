@@ -3,11 +3,12 @@
 </p>
 
 <h1 align="center">
-  let's Know and have a Chat!📱
+  Let's Know and have a Chat!📱
 </h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/thomsaga"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=thomasay98&style=flat-square&color=blue" alt=""></p>
 </p>
 
 <p align="center">
