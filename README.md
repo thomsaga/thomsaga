@@ -6,10 +6,10 @@
   Let's Know and have a Chat!📱
 </h1>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/thomsaga"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> <p align="center"><img src="https://komarev.com/ghpvc/?username=thomasay98&style=flat-square&color=blue" alt=""></p>
-
-</p>
+<div>
+<a href="https://www.linkedin.com/in/thomsaga"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=thomasay98&style=flat-square&color=blue" alt=""></p>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
