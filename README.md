@@ -22,9 +22,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
-First Header  
+Req & Design  | Delegated to
 ------------- | -------------
-Content Cell  | Content Cell
+BPMN          | Vino
 Content Cell  |  \| 
 <!--
 **thomasay98/thomasay98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
