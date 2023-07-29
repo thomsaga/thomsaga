@@ -22,7 +22,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
-First Header  | Second Header
+First Header  
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  |  \| 
