@@ -22,10 +22,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
-__Req & Design__  | Delegated to
-------------- | -------------
-BPMN          | Vino
-Use Case Diagram  |  \| 
 <!--
 **thomasay98/thomasay98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
