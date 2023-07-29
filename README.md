@@ -22,7 +22,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
-Req & Design  | Delegated to
+__Req & Design__  | Delegated to
 ------------- | -------------
 BPMN          | Vino
 Content Cell  |  \| 
