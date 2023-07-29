@@ -22,8 +22,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
-<a href="https://drive.google.com/file/d/1Edu3lXNLxWCUVb2uRIcjhBqWIlIpv0vd/view?usp=sharing"><img src="https://img.shields.io/badge/Req_&_Design-LINK-blue?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Draw.io"></a>
-
 <!--
 **thomasay98/thomasay98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
