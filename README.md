@@ -18,12 +18,12 @@
 
 ---
 
-
-![Snake animation](https://github.com/thomasay98/thomasay98/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+
+![Snake animation](https://github.com/thomasay98/thomasay98/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **thomasay98/thomasay98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
