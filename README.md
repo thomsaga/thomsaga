@@ -18,6 +18,7 @@
 
 ---
 
+
 ![Snake animation](https://github.com/thomasay98/thomasay98/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
