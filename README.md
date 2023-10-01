@@ -16,8 +16,6 @@
   <img src= "https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp">
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
