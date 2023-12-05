@@ -36,7 +36,7 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio,html,css,java,javascript,dart,bootstrap,spring,flutter,mysql,mongodb,postman,github,stackoverflow&theme=light)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio,html,css,java,javascript,dart,spring,flutter,mysql,mongodb,postman,github,stackoverflow&theme=light)](https://skillicons.dev) 
 </p>
 
 ---
