@@ -5,19 +5,18 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=💥Hey%20Everyone!💥&height=95&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=💥%20Hey%20Everyone!%20💥&height=95&section=header"/>
 </p>
 
 <h1 align="center">
   Let's Know and have a Chat!📱
-</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/thomsaga"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://discord.gg/h4RZVfkmSQ"><img src="https://img.shields.io/badge/Discord-mediumslateblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a> 
-  <a href="https://instagram.com/_thomsaga/"><img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a> 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/thomsaga"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+    <a href="https://discord.gg/h4RZVfkmSQ"><img src="https://img.shields.io/badge/Discord-mediumslateblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a> 
+    <a href="https://instagram.com/_thomsaga/"><img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a> 
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=thomasay98&style=flat-square&color=blue" alt=""></p> -->
-</p>
+  </p>
+</h1>
 
 <p align="center">
   <!-- <img src= "https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp"> -->
