@@ -25,11 +25,12 @@
   <!-- <img src= "https://i.giphy.com/media/igRW3jH2LcCVzMqi5F/200w.webp"> -->
   <img src= "https://s5.gifyu.com/images/Sj2MC.gif">
 <!--   <img src= "https://s5.gifyu.com/images/SisVO.gif"> -->
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+
+<!-- <p align="center"> -->
+<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/> -->
+<!-- </p> -->
 
 ---  
   
