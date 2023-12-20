@@ -4,9 +4,9 @@
   
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-<p align="center">
+<h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=💥%20Hey%20Everyone!%20💥&height=95&section=header"/>
-</p>
+</h1>
 
 <h1 align="center">
   Let's Know and have a Chat!
