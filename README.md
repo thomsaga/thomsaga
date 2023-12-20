@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-  Let's Know and have a Chat!📱
+  Let's Know and have a Chat!
   <p align="center">
     <a href="https://www.linkedin.com/in/thomsaga"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
     <a href="https://discord.gg/h4RZVfkmSQ"><img src="https://img.shields.io/badge/Discord-mediumslateblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a> 
