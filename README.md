@@ -9,7 +9,7 @@
 </h1>
 </br>
 </br>
-<h3 align="center">
+<h1 align="center">
   Let's Know and have a Chat!
   <p align="center">
     <a href="https://www.linkedin.com/in/thomsaga"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -17,7 +17,7 @@
     <a href="https://instagram.com/_thomsaga/"><img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a> 
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=thomasay98&style=flat-square&color=blue" alt=""></p> -->
   </p>
-</h3>
+</h1>
 
 <p align="center">
   <!-- <img src= "https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp"> -->
