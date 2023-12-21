@@ -8,7 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=〈%20Hey%20Everyone!%20〉&height=95&section=header"/>
 </h1>
 </br>
-</br>
 <h1 align="center">
   Let's Know and have a Chat!
   <p align="center">
