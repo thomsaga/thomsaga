@@ -43,12 +43,12 @@
 ---
 
 <a> 
-  <a href="https://github.com/thomasay98"><img alt="Thomasay98 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thomasay98&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/thomasay98"><img alt="Thomasay98 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thomasay98&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/thomsaga"><img alt="Thomsaga Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thomsaga&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/thomsaga"><img alt="Thomsaga Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thomsaga&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Al Graph](https://github-readme-activity-graph.vercel.app/graph?username=thomasay98&custom_title=thomasay98%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Al Graph](https://github-readme-activity-graph.vercel.app/graph?username=thomsaga&custom_title=thomasay98%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <!--
 **thomasay98/thomasay98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
