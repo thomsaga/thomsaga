@@ -32,8 +32,6 @@
 <!-- <p align="center"> -->
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/> -->
 <!-- </p> -->
-
----  
   
 <!-- <h4> 🚀 &nbsp;Some Tools I Have Used and Learned</h4> -->
 <p align="left">
