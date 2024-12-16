@@ -36,7 +36,7 @@
 <!-- <h4> 🚀 &nbsp;Some Tools I Have Used and Learned</h4> -->
 <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,html,css,blender,dart,java,javascript,spring,flutter,mysql,mongodb,postman,github,stackoverflow&theme=light)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,html,css,tailwind,blender,java,javascript,spring,react,mysql,mongodb,postman,github,stackoverflow&theme=light)](https://skillicons.dev) 
 </p>
 
 <a> 
