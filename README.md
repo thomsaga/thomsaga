@@ -19,7 +19,7 @@
   </p>
 </h1>
 
-<p align="center">
+<div align="center">
   <!-- <img src= "https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp"> -->
   <!-- <img src= "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> -->
   <!-- <img src= "https://i.giphy.com/media/QX7nMrAHVN0FFD7EtK/giphy.webp"> -->
@@ -27,23 +27,29 @@
 <!--   <img src= "https://s5.gifyu.com/images/Sj2MC.gif"> -->
   <!--   <img src= "https://s5.gifyu.com/images/SisVO.gif"> -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+</div>
 
 <!-- <p align="center"> -->
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/> -->
 <!-- </p> -->
   
 <!-- <h4> 🚀 &nbsp;Some Tools I Have Used and Learned</h4> -->
-<p align="left">
+<div align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,html,css,tailwind,blender,java,javascript,spring,react,mysql,mongodb,postman,github,stackoverflow&theme=light)](https://skillicons.dev) 
-</p>
+</div>
 
-<a> 
+<div align="center>
   <a href="https://github.com/thomsaga"><img alt="Thomsaga Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thomsaga&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/thomsaga"><img alt="Thomsaga Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thomsaga&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thomsaga&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="195" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thomsaga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="195" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thomsaga&radius=16&theme=react&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
 
 ![Al Graph](https://github-readme-activity-graph.vercel.app/graph?username=thomsaga&custom_title=Thomas%20AY's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <!--
