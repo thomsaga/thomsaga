@@ -43,7 +43,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thomsaga&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=2&border_radius=0px&title_color=F85D7F" height="195px" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thomsaga&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=react&hide_border=true&order=2&border_radius=0px&title_color=F85D7F" height="195px" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thomsaga&locale=en&hide_title=false&layout=compact&card_width=70%&langs_count=5&theme=react&hide_border=true&order=2&border_radius=0px&title_color=F85D7F" height="195px" alt="languages graph"  />
 <!--  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thomsaga&custom_title=Thomas%20AY's%20GitHub%20Activity%20Graph&title_color=F85D7F&radius=16&theme=react&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />-->
 </div>
 
