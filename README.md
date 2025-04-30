@@ -21,12 +21,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=footer"/>
 </div>
-</br>
+
 <div align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,html,css,tailwind,blender,java,javascript,spring,react,mysql,mongodb,postman,github,stackoverflow&theme=light)](https://thomsaga-porto.vercel.app)
 <!--(https://skillicons.dev)--> 
-
 </div>
 
 <!--<div align="center>
