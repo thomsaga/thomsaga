@@ -24,7 +24,7 @@
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,html,css,tailwind,blender,java,javascript,spring,react,mysql,mongodb,postman,github,stackoverflow&theme=light)](https://thomsaga-porto.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,html,css,tailwind,vite,java,javascript,spring,react,mysql,discord,postman,github,blender&theme=light)](https://thomsaga-porto.vercel.app)
 <!--(https://skillicons.dev)--> 
 </div>
 
