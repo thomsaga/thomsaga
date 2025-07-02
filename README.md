@@ -6,7 +6,7 @@
 [![wakatime](https://wakatime.com/badge/user/018c86a1-6f88-45b4-b88e-44b16b75e709.svg)](https://wakatime.com/@018c86a1-6f88-45b4-b88e-44b16b75e709)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=〈%20Hey%20Everyone!%20〉&height=95&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=﹝%20Hey%20Everyone!%20﹞&height=95&section=header"/>
 </div>
 </br>
 <div align="center">
