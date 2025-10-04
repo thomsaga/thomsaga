@@ -12,6 +12,9 @@
 <div align="center">
   <h1>Let's Know and have a Chat!</h1>
   <p align="center">
+    <a href="https://thomsaga.vercel.app" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%2321CBCE?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio Badge">
+    </a>
     <a href="https://www.linkedin.com/in/thomsaga" target="_blank"><img src="https://img.shields.io/badge/Linked'in-blue?style=for-the-badge&logo=logmein&logoColor=white" alt="Linkedin Badge"></a>
     <a href="https://discord.gg/aZyCvV6VAW"><img src="https://img.shields.io/badge/Discord-mediumslateblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a> 
     <a href="https://instagram.com/thomsaga/"><img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a> 
