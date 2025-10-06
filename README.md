@@ -10,7 +10,7 @@
 </div>
 </br>
 <div align="center">
-  <h1>Let's Know and have a Chat!</h1>
+  <h1>Let's know and have a chat!</h1>
   <p align="center">
     <a href="https://www.linkedin.com/in/thomsaga"><img src="https://img.shields.io/badge/Linked'in-%2300669c?style=for-the-badge&logo=logmein&logoColor=white" alt="Linkedin Badge"></a>
     <a href="https://thomsaga-porto.vercel.app"><img src="https://img.shields.io/badge/MyPorto-%2320C997?style=for-the-badge&logo=paperswithcode&logoColor=white" alt="Paperswithcode Badge"></a>
