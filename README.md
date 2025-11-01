@@ -13,7 +13,7 @@
   <h1>Let's know and have a chat!</h1>
   <p align="center">
     <a href="https://www.linkedin.com/in/thomsaga"><img src="https://img.shields.io/badge/Linked'in-%2300669c?style=for-the-badge&logo=logmein&logoColor=white" alt="Linkedin Badge"></a>
-    <a href="https://thomsaga-porto.vercel.app"><img src="https://img.shields.io/badge/MyPorto-%2320C997?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Paperswithcode Badge"></a>
+    <a href="https://porthomsaga.vercel.app"><img src="https://img.shields.io/badge/MyPorto-%2320C997?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Paperswithcode Badge"></a>
     <!-- <a href="https://discord.gg/aZyCvV6VAW"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>  -->
     <a href="https://instagram.com/thomsaga/"><img src="https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a> 
   </p>
