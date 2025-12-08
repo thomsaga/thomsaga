@@ -36,7 +36,7 @@
 </div>-->
 
 <div align="center">
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=thomsayga&show_icons=true&border_radius=7px&theme=default" width="54%">
+<a href="https://stats.hyo.dev/stats/thomsayga"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=thomsayga&show_icons=true&disable_animations=false&hide_border=true&border_radius=7px&theme=react&title_color=FFFFFF" width="55%"/></a>
 <a href="https://stats.hyo.dev/stats/thomsayga"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=thomsayga" width="38%" /></a>
   
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=thomsayga&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=2&border_radius=0px&title_color=F85D7F" height="140px" alt="stats graph"  />
@@ -44,6 +44,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thomsaga&custom_title=Thomas%20AY's%20GitHub%20Activity%20Graph&title_color=F85D7F&radius=16&theme=react&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />-->
 </div>
 
-[![Al Graph](https://github-readme-activity-graph.vercel.app/graph?username=thomsayga&custom_title=Thomas%20AY's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FFFFFF&line=00BFFF&point=009ACD&area_color=FFD700&title_color=F85D7F&area=true)](https://thomsaga-porto.vercel.app)
+[![Al Graph](https://github-readme-activity-graph.vercel.app/graph?username=thomsayga&custom_title=Thomas%20AY's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FFFFFF&line=00BFFF&point=009ACD&area_color=FFD700&area=true)](https://thomsaga-porto.vercel.app)
 
 
