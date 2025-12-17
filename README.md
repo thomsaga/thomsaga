@@ -37,7 +37,7 @@
 
 <div align="center">
 <a href="https://github.com/thomsayga"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=thomsayga&show_icons=true&disable_animations=false&hide_border=true&border_radius=7px&theme=react&title_color=FFFFFF" width="55%"/></a>
-<a href="https://stats.hyo.dev/stats/thomsayga"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=thomsayga" width="38%" /></a>
+<a href="https://stats.hyo.dev/stats/thomsayga"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=thomsayga" width="39%" /></a>
   
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=thomsayga&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=2&border_radius=0px&title_color=F85D7F" height="140px" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thomsayga&locale=en&hide_title=false&layout=compact&card_width=550px&langs_count=5&theme=react&hide_border=true&order=2&border_radius=0px&title_color=F85D7F" height="150px" alt="languages graph"  />
